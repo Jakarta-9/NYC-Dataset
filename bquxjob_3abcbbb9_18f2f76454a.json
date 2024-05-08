@@ -1,0 +1,361 @@
+[{
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2016-09-01",
+  "month": "September",
+  "total_sale_price": "533322588",
+  "sales_trend": "Tidak diketahui"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2016-10-01",
+  "month": "Oktober",
+  "total_sale_price": "263414383",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2016-11-01",
+  "month": "November",
+  "total_sale_price": "324462369",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2016-12-01",
+  "month": "Desember",
+  "total_sale_price": "276173923",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-01-01",
+  "month": "Januari",
+  "total_sale_price": "289564592",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-02-01",
+  "month": "Februari",
+  "total_sale_price": "296989909",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-03-01",
+  "month": "Maret",
+  "total_sale_price": "397125091",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-04-01",
+  "month": "April",
+  "total_sale_price": "335476243",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-05-01",
+  "month": "Mei",
+  "total_sale_price": "373625164",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-06-01",
+  "month": "Juni",
+  "total_sale_price": "417633310",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-07-01",
+  "month": "Juli",
+  "total_sale_price": "432276387",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-08-01",
+  "month": "Agustus",
+  "total_sale_price": "220211034",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2016-09-01",
+  "month": "September",
+  "total_sale_price": "1688084697",
+  "sales_trend": "Tidak diketahui"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2016-10-01",
+  "month": "Oktober",
+  "total_sale_price": "1395271264",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2016-11-01",
+  "month": "November",
+  "total_sale_price": "1418243001",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2016-12-01",
+  "month": "Desember",
+  "total_sale_price": "2273312149",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-01-01",
+  "month": "Januari",
+  "total_sale_price": "1401995721",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-02-01",
+  "month": "Februari",
+  "total_sale_price": "1510170116",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-03-01",
+  "month": "Maret",
+  "total_sale_price": "2170543663",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-04-01",
+  "month": "April",
+  "total_sale_price": "1344302828",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-05-01",
+  "month": "Mei",
+  "total_sale_price": "1810839984",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-06-01",
+  "month": "Juni",
+  "total_sale_price": "2015158292",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-07-01",
+  "month": "Juli",
+  "total_sale_price": "1600513145",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-08-01",
+  "month": "Agustus",
+  "total_sale_price": "1438507016",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2016-09-01",
+  "month": "September",
+  "total_sale_price": "4233032681",
+  "sales_trend": "Tidak diketahui"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2016-10-01",
+  "month": "Oktober",
+  "total_sale_price": "3246712594",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2016-11-01",
+  "month": "November",
+  "total_sale_price": "3839859920",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2016-12-01",
+  "month": "Desember",
+  "total_sale_price": "5889721731",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-01-01",
+  "month": "Januari",
+  "total_sale_price": "4973749212",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-02-01",
+  "month": "Februari",
+  "total_sale_price": "2663564975",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-03-01",
+  "month": "Maret",
+  "total_sale_price": "3181999650",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-04-01",
+  "month": "April",
+  "total_sale_price": "3091069467",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-05-01",
+  "month": "Mei",
+  "total_sale_price": "6297097376",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-06-01",
+  "month": "Juni",
+  "total_sale_price": "4223043811",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-07-01",
+  "month": "Juli",
+  "total_sale_price": "3236072912",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-08-01",
+  "month": "Agustus",
+  "total_sale_price": "3320754070",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2016-09-01",
+  "month": "September",
+  "total_sale_price": "1098773043",
+  "sales_trend": "Tidak diketahui"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2016-10-01",
+  "month": "Oktober",
+  "total_sale_price": "1030137895",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2016-11-01",
+  "month": "November",
+  "total_sale_price": "1115665777",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2016-12-01",
+  "month": "Desember",
+  "total_sale_price": "1814480840",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-01-01",
+  "month": "Januari",
+  "total_sale_price": "957634866",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-02-01",
+  "month": "Februari",
+  "total_sale_price": "802022099",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-03-01",
+  "month": "Maret",
+  "total_sale_price": "1330558153",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-04-01",
+  "month": "April",
+  "total_sale_price": "1004444796",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-05-01",
+  "month": "Mei",
+  "total_sale_price": "1141518604",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-06-01",
+  "month": "Juni",
+  "total_sale_price": "1389053320",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-07-01",
+  "month": "Juli",
+  "total_sale_price": "1038078534",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-08-01",
+  "month": "Agustus",
+  "total_sale_price": "922286859",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2016-09-01",
+  "month": "September",
+  "total_sale_price": "289348923",
+  "sales_trend": "Tidak diketahui"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2016-10-01",
+  "month": "Oktober",
+  "total_sale_price": "248513132",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2016-11-01",
+  "month": "November",
+  "total_sale_price": "386609459",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2016-12-01",
+  "month": "Desember",
+  "total_sale_price": "272132934",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-01-01",
+  "month": "Januari",
+  "total_sale_price": "252810883",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-02-01",
+  "month": "Februari",
+  "total_sale_price": "217887662",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-03-01",
+  "month": "Maret",
+  "total_sale_price": "399746404",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-04-01",
+  "month": "April",
+  "total_sale_price": "229024523",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-05-01",
+  "month": "Mei",
+  "total_sale_price": "247381506",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-06-01",
+  "month": "Juni",
+  "total_sale_price": "340572424",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-07-01",
+  "month": "Juli",
+  "total_sale_price": "247539426",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-08-01",
+  "month": "Agustus",
+  "total_sale_price": "135243579",
+  "sales_trend": "Turun"
+}]

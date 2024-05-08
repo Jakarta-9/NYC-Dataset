@@ -1,0 +1,481 @@
+[{
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2016-09-01",
+  "month": "September",
+  "total_sale_price": "533322588",
+  "Residential_Units": "4580",
+  "Commercial_Units": "196",
+  "sales_trend": "Tidak diketahui"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2016-10-01",
+  "month": "Oktober",
+  "total_sale_price": "263414383",
+  "Residential_Units": "1302",
+  "Commercial_Units": "71",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2016-11-01",
+  "month": "November",
+  "total_sale_price": "324462369",
+  "Residential_Units": "1768",
+  "Commercial_Units": "90",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2016-12-01",
+  "month": "Desember",
+  "total_sale_price": "276173923",
+  "Residential_Units": "1525",
+  "Commercial_Units": "70",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-01-01",
+  "month": "Januari",
+  "total_sale_price": "289564592",
+  "Residential_Units": "1317",
+  "Commercial_Units": "68",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-02-01",
+  "month": "Februari",
+  "total_sale_price": "296989909",
+  "Residential_Units": "1866",
+  "Commercial_Units": "90",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-03-01",
+  "month": "Maret",
+  "total_sale_price": "397125091",
+  "Residential_Units": "1941",
+  "Commercial_Units": "76",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-04-01",
+  "month": "April",
+  "total_sale_price": "335476243",
+  "Residential_Units": "1759",
+  "Commercial_Units": "136",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-05-01",
+  "month": "Mei",
+  "total_sale_price": "373625164",
+  "Residential_Units": "1862",
+  "Commercial_Units": "70",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-06-01",
+  "month": "Juni",
+  "total_sale_price": "417633310",
+  "Residential_Units": "3832",
+  "Commercial_Units": "139",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-07-01",
+  "month": "Juli",
+  "total_sale_price": "432276387",
+  "Residential_Units": "1544",
+  "Commercial_Units": "80",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Bronx",
+  "Tanggal_Penjualan": "2017-08-01",
+  "month": "Agustus",
+  "total_sale_price": "220211034",
+  "Residential_Units": "929",
+  "Commercial_Units": "48",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2016-09-01",
+  "month": "September",
+  "total_sale_price": "1688084697",
+  "Residential_Units": "4882",
+  "Commercial_Units": "530",
+  "sales_trend": "Tidak diketahui"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2016-10-01",
+  "month": "Oktober",
+  "total_sale_price": "1395271264",
+  "Residential_Units": "3455",
+  "Commercial_Units": "203",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2016-11-01",
+  "month": "November",
+  "total_sale_price": "1418243001",
+  "Residential_Units": "3793",
+  "Commercial_Units": "300",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2016-12-01",
+  "month": "Desember",
+  "total_sale_price": "2273312149",
+  "Residential_Units": "5322",
+  "Commercial_Units": "289",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-01-01",
+  "month": "Januari",
+  "total_sale_price": "1401995721",
+  "Residential_Units": "3362",
+  "Commercial_Units": "262",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-02-01",
+  "month": "Februari",
+  "total_sale_price": "1510170116",
+  "Residential_Units": "3785",
+  "Commercial_Units": "450",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-03-01",
+  "month": "Maret",
+  "total_sale_price": "2170543663",
+  "Residential_Units": "3873",
+  "Commercial_Units": "364",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-04-01",
+  "month": "April",
+  "total_sale_price": "1344302828",
+  "Residential_Units": "3411",
+  "Commercial_Units": "204",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-05-01",
+  "month": "Mei",
+  "total_sale_price": "1810839984",
+  "Residential_Units": "4404",
+  "Commercial_Units": "229",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-06-01",
+  "month": "Juni",
+  "total_sale_price": "2015158292",
+  "Residential_Units": "6899",
+  "Commercial_Units": "317",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-07-01",
+  "month": "Juli",
+  "total_sale_price": "1600513145",
+  "Residential_Units": "3121",
+  "Commercial_Units": "211",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Brooklyn",
+  "Tanggal_Penjualan": "2017-08-01",
+  "month": "Agustus",
+  "total_sale_price": "1438507016",
+  "Residential_Units": "2644",
+  "Commercial_Units": "199",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2016-09-01",
+  "month": "September",
+  "total_sale_price": "4233032681",
+  "Residential_Units": "4388",
+  "Commercial_Units": "972",
+  "sales_trend": "Tidak diketahui"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2016-10-01",
+  "month": "Oktober",
+  "total_sale_price": "3246712594",
+  "Residential_Units": "3756",
+  "Commercial_Units": "263",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2016-11-01",
+  "month": "November",
+  "total_sale_price": "3839859920",
+  "Residential_Units": "5336",
+  "Commercial_Units": "1303",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2016-12-01",
+  "month": "Desember",
+  "total_sale_price": "5889721731",
+  "Residential_Units": "7352",
+  "Commercial_Units": "780",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-01-01",
+  "month": "Januari",
+  "total_sale_price": "4973749212",
+  "Residential_Units": "3139",
+  "Commercial_Units": "264",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-02-01",
+  "month": "Februari",
+  "total_sale_price": "2663564975",
+  "Residential_Units": "1746",
+  "Commercial_Units": "243",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-03-01",
+  "month": "Maret",
+  "total_sale_price": "3181999650",
+  "Residential_Units": "1937",
+  "Commercial_Units": "560",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-04-01",
+  "month": "April",
+  "total_sale_price": "3091069467",
+  "Residential_Units": "2024",
+  "Commercial_Units": "210",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-05-01",
+  "month": "Mei",
+  "total_sale_price": "6297097376",
+  "Residential_Units": "3957",
+  "Commercial_Units": "151",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-06-01",
+  "month": "Juni",
+  "total_sale_price": "4223043811",
+  "Residential_Units": "2700",
+  "Commercial_Units": "202",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-07-01",
+  "month": "Juli",
+  "total_sale_price": "3236072912",
+  "Residential_Units": "3926",
+  "Commercial_Units": "323",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Manhattan",
+  "Tanggal_Penjualan": "2017-08-01",
+  "month": "Agustus",
+  "total_sale_price": "3320754070",
+  "Residential_Units": "1980",
+  "Commercial_Units": "215",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2016-09-01",
+  "month": "September",
+  "total_sale_price": "1098773043",
+  "Residential_Units": "3276",
+  "Commercial_Units": "420",
+  "sales_trend": "Tidak diketahui"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2016-10-01",
+  "month": "Oktober",
+  "total_sale_price": "1030137895",
+  "Residential_Units": "3585",
+  "Commercial_Units": "2383",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2016-11-01",
+  "month": "November",
+  "total_sale_price": "1115665777",
+  "Residential_Units": "3691",
+  "Commercial_Units": "216",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2016-12-01",
+  "month": "Desember",
+  "total_sale_price": "1814480840",
+  "Residential_Units": "3984",
+  "Commercial_Units": "299",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-01-01",
+  "month": "Januari",
+  "total_sale_price": "957634866",
+  "Residential_Units": "2754",
+  "Commercial_Units": "1007",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-02-01",
+  "month": "Februari",
+  "total_sale_price": "802022099",
+  "Residential_Units": "2693",
+  "Commercial_Units": "143",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-03-01",
+  "month": "Maret",
+  "total_sale_price": "1330558153",
+  "Residential_Units": "3878",
+  "Commercial_Units": "179",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-04-01",
+  "month": "April",
+  "total_sale_price": "1004444796",
+  "Residential_Units": "4129",
+  "Commercial_Units": "144",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-05-01",
+  "month": "Mei",
+  "total_sale_price": "1141518604",
+  "Residential_Units": "5452",
+  "Commercial_Units": "197",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-06-01",
+  "month": "Juni",
+  "total_sale_price": "1389053320",
+  "Residential_Units": "4159",
+  "Commercial_Units": "207",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-07-01",
+  "month": "Juli",
+  "total_sale_price": "1038078534",
+  "Residential_Units": "4749",
+  "Commercial_Units": "183",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Queens",
+  "Tanggal_Penjualan": "2017-08-01",
+  "month": "Agustus",
+  "total_sale_price": "922286859",
+  "Residential_Units": "3141",
+  "Commercial_Units": "139",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2016-09-01",
+  "month": "September",
+  "total_sale_price": "289348923",
+  "Residential_Units": "983",
+  "Commercial_Units": "28",
+  "sales_trend": "Tidak diketahui"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2016-10-01",
+  "month": "Oktober",
+  "total_sale_price": "248513132",
+  "Residential_Units": "825",
+  "Commercial_Units": "35",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2016-11-01",
+  "month": "November",
+  "total_sale_price": "386609459",
+  "Residential_Units": "871",
+  "Commercial_Units": "53",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2016-12-01",
+  "month": "Desember",
+  "total_sale_price": "272132934",
+  "Residential_Units": "1072",
+  "Commercial_Units": "69",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-01-01",
+  "month": "Januari",
+  "total_sale_price": "252810883",
+  "Residential_Units": "827",
+  "Commercial_Units": "41",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-02-01",
+  "month": "Februari",
+  "total_sale_price": "217887662",
+  "Residential_Units": "834",
+  "Commercial_Units": "31",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-03-01",
+  "month": "Maret",
+  "total_sale_price": "399746404",
+  "Residential_Units": "922",
+  "Commercial_Units": "279",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-04-01",
+  "month": "April",
+  "total_sale_price": "229024523",
+  "Residential_Units": "797",
+  "Commercial_Units": "27",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-05-01",
+  "month": "Mei",
+  "total_sale_price": "247381506",
+  "Residential_Units": "1057",
+  "Commercial_Units": "22",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-06-01",
+  "month": "Juni",
+  "total_sale_price": "340572424",
+  "Residential_Units": "1087",
+  "Commercial_Units": "41",
+  "sales_trend": "Naik"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-07-01",
+  "month": "Juli",
+  "total_sale_price": "247539426",
+  "Residential_Units": "722",
+  "Commercial_Units": "20",
+  "sales_trend": "Turun"
+}, {
+  "BOROUGH_NAME__Nama_Wilayah_": "Staten Island",
+  "Tanggal_Penjualan": "2017-08-01",
+  "month": "Agustus",
+  "total_sale_price": "135243579",
+  "Residential_Units": "327",
+  "Commercial_Units": "24",
+  "sales_trend": "Turun"
+}]
